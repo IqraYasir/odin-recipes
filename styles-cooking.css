@@ -1,0 +1,38 @@
+#main {
+    font-size: x-large;}
+
+#main,
+h2 {
+    color: #fff;
+    background-color: rgba(244,0,34,0.5);}
+
+img {
+    width: 600px;
+    height: auto}
+
+h1,
+.header {
+    color: #fff;
+    text-align: center;}
+
+#green {
+    background-color: rgba(0,244,34,0.5);}
+#blue {
+    background-color: rgba(0,0,244,0.5);}
+#yellow {
+    background-color: #ffff0080;
+    color: #000;}
+
+body {
+    font-family: 'Segoe Script', 'Viner Hand', Impact;}
+
+ul li{
+    color: #ff00d4;}
+
+.even{
+    color: #18afaf;
+    font-weight: 300;}
+
+ol li{
+    color: #00f;}
+
